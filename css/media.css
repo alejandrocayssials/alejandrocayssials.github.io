@@ -1,0 +1,11 @@
+html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+
+@media screen and (max-width:533px){
+
+	h1.post-title {
+		font-size: 33px;
+		line-height: 110%;
+		margin-bottom: 20px;
+		}
+
+}
